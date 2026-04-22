@@ -47,3 +47,8 @@ This is a Credit Card Financial Dashboard created on Power BI.
 
 **Validation** 
 - Verified accuracy and refined based on feedback.
+
+**Dashboard Preview**
+<img width="1326" height="747" alt="image" src="https://github.com/user-attachments/assets/f021b1c8-5226-4e33-bb79-863f3db8972d" />
+<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/0b8a9001-7cc4-426c-b94b-9ec860749335" />
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/3721dd45-e330-49b7-ad5a-86fa0e9f5e90" />
